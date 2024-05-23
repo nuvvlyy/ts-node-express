@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-  "build": "tsc && cp _redirects dist/",
+  "build": "tsc",
     "start": "nodemon src/index.ts",
     "dev": "nodemon src/index.ts"
   },
